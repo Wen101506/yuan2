@@ -1,0 +1,32 @@
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 1.2px;
+}
+  html {
+    background-color: #e1eefb;
+  }  
+  body {
+    width: 500px;
+    margin: 10 auto;
+    background-color: #ced4f0;
+    padding: 0px 10px 10px 10px;
+    border: 2px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #042647;
+    text-shadow: 4px 4px 1px rgb(196, 196, 196);
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
